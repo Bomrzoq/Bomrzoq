@@ -1,6 +1,6 @@
 ### Hi there **I'm Abdullah** 👋
 
-- 🔭 I’m currently working looking for work oportonity and improving myself
+- 🔭 I’m currently looking for work oportonity and improving myself
 - 🌱 I’m currently learning AI and ML
 - 👯 I’m looking to collaborate on any kind of great project
 - 🤔 I’m looking for help with imprving myself
