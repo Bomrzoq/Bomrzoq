@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there **I'm Abdullah** 👋
 
-<!--
-**Bomrzoq/Bomrzoq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working looking for work oportonity and improving myself
+- 🌱 I’m currently learning AI and ML
+- 👯 I’m looking to collaborate on any kind of great project
+- 🤔 I’m looking for help with imprving myself
+- 💬 Ask me about anything you have in mind!
+- 📫 How to reach me: whatsapp(+966504910467)
+- ⚡ Fun fact: I can sleep anywhere
 
-Here are some ideas to get you started:
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bomrzoq&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
