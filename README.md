@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on any kind of great project
 - 💡 I enjoy learning new things and enhance my knowledge as time passes by
 - 💬 Ask me about anything you have in mind!
-- 📫 How to reach me: [whatsapp](https://wa.me/966504910467),[Email](emailto:bomrzoq@gmail.com)
+- 📫 How to reach me: [whatsapp](https://wa.me/966504910467),[Email](mailto:bomrzoq@gmail.com)
 - ⚡ Fun fact: I can sleep anywhere and I love cats 🐈
 
 </br>
