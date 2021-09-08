@@ -1,15 +1,38 @@
-### Hi there **I'm Abdullah** 👋
+![header](https://user-images.githubusercontent.com/10991489/119396799-a6f40d00-bcd5-11eb-987c-ffb45067c090.png)
 
+# Hi there, I'm ✨ [Abdulah AlMarzooq!](https://www.linkedin.com/in/abdullah-almarzooq/) ✨ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
+</br>
+
+### I'm a Computer Science graduate and a proud <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /> with a catch (https://docs.google.com/document/d/16ZsPO1DLHzf6qY8EoCV09VTB518o2A-jd9PpJK4z2pw/edit?usp=sharing) <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" /> 
 - 🔭 I’m currently looking for work oportonity and improving myself
 - 🌱 I’m currently learning AI and ML
 - 👯 I’m looking to collaborate on any kind of great project
-- 🤔 I’m looking for help with imprving myself
+- 💡 I enjoy learning new things and enhance My Knoweldge as time passes by
 - 💬 Ask me about anything you have in mind!
-- 📫 How to reach me: whatsapp(+966504910467)
-- ⚡ Fun fact: I can sleep anywhere
+- 📫 How to reach me: [whatsapp](https://wa.me/966504910467),[Email](emailto:bomrzoq@gmail.com)
+- ⚡ Fun fact: I can sleep anywhere and I love cats 🐈
+
+</br>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Bomrzoq.Bomrzoq)
 
+</br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bomrzoq&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+##  Langaues & Tools I Use
 
+[![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)](https://dinhanhthi.com/)
+[![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=563D7C)](https://dinhanhthi.com/#web_development)
+[![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://dinhanhthi.com/visual-studio-code)
+[![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)](https://dinhanhthi.com/git)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+
+## Github Stats:
+
+<p>
+  <a href="https://github.com/abanoub-ashraf">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bomrzoq&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bomrzoq&&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
