@@ -4,7 +4,7 @@
 
 </br>
 
-### I'm a Computer Science graduate and a proud <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /> with a catch (https://docs.google.com/document/d/16ZsPO1DLHzf6qY8EoCV09VTB518o2A-jd9PpJK4z2pw/edit?usp=sharing) <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" /> 
+### I'm a Computer Science graduate and a proud <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /> with a catch  <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" /> 
 - 🔭 I’m currently looking for work oportonity and improving myself
 - 🌱 I’m currently learning AI and ML
 - 👯 I’m looking to collaborate on any kind of great project
