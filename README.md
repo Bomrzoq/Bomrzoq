@@ -30,7 +30,7 @@
 
 ## Github Stats:
 
-<p>
+<p align="center">
   <a href="https://github.com/abanoub-ashraf">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bomrzoq&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bomrzoq&&layout=compact&langs_count=8&theme=algolia"/>
