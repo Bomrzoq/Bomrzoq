@@ -3,7 +3,7 @@
 # Hi there, I'm ✨ [Abdulah AlMarzooq!](https://www.linkedin.com/in/abdullah-almarzooq/) ✨ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 </br>
-
+ 
 ### I'm a Computer Science graduate and a proud <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /> with a catch  <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" /> 
 - 🔭 I'm currently looking for work opportunity and improving myself
 - 🌱 I'm currently learning AI and ML
