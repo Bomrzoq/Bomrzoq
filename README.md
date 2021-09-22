@@ -1,4 +1,4 @@
-![header](https://user-images.githubusercontent.com/10991489/119396799-a6f40d00-bcd5-11eb-987c-ffb45067c090.png)
+![header](https://user-images.githubusercontent.com/10991489/119396799-a6f40d00-bcd5-11eb-987c-ffb45067c090.png) 
 
 # Hi there, I'm ✨ [Abdulah AlMarzooq!](https://www.linkedin.com/in/abdullah-almarzooq/) ✨ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
