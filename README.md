@@ -6,7 +6,7 @@
   
 ### I'm a Computer Science graduate and a proud <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /> with a catch  <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" /> 
 - 🔭 I'm currently looking for work opportunity and improving myself
-- 🌱 I'm currently learning AI and ML
+- 🌱 I'm currently learning Software Engineering
 - 👯 I’m looking to collaborate on any kind of great project
 - 💡 I enjoy learning new things and enhance my knowledge as time passes by
 - 💬 Ask me about anything you have in mind!
