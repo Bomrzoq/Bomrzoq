@@ -36,3 +36,9 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bomrzoq&&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+
+<p align="center">
+  <br/>
+   <br/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXkzZ3hxbzRpbGxmbXB0bnBpaHp1bTl0czl4Z3RtZmtnaDNrbjliOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5dspTNJBVL51hiSN7/giphy.gif" width="50%">
+</p>
